@@ -10,5 +10,5 @@ To create this environment in an Anaconda shell:
 conda env create -f geopandas_0_9_env.yml
 ```
 
-Aubhor: Ben Krepp
+Aubhor: Ben Krepp  
 Date: 29 December 2022
